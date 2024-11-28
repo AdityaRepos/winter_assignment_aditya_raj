@@ -1,54 +1,65 @@
-# Merchant Fraud Detection System - Code Overview
+# Merchant Fraud Detection System
 
-## Basic usage with default settings
-Run by : `cd src` then `python main.py`
+## Quick Start
+``` bash
+cd src
+python main.py
+```
+## Core Components
+1. **Data Generation** (`data_generation.py`)
+   - Creates synthetic merchant profiles
+   - Generates transaction patterns
+   - Injects fraud scenarios
 
-## Core Components & Flow
+2. **Main Pipeline** (`main.py`)
+   - Orchestrates fraud detection process
+   - Manages data and model execution
 
-### 1. Main Pipeline (`src/main.py`)
-The `FraudDetectionPipeline` class orchestrates the entire process:
-- Initializes data paths and components
-- Manages data generation and processing
-- Handles model training and prediction
-- Generates fraud reports
+3. **Feature Engineering** (`feature_engineering.py`)
+   - Processes transactions
+   - Extracts merchant patterns
 
-### 2. Feature Processing (`src/feature_engineering.py`)
-The `FeatureEngineering` class:
-- Processes raw transaction data
-- Calculates merchant behavior metrics
-- Normalizes features for model input
+4. **Fraud Detection** (`fraud_detection.py`, `anomaly_detection.py`)
+   - Autoencoder model implementation
+   - Pattern matching and risk scoring
 
-### 3. Data Flow
-Raw Data → Feature Engineering → Model Training → Fraud Detection → Reports
+5. **Pattern Analysis** (`fraud_patterns.py`)
+   - Fraud indicators and validation
 
+## Key Features
 
-### 4. Key Operations
-1. **Data Generation**
-   - Creates merchant profiles
-   - Generates transaction data
-   - Injects fraud patterns
+### 1. Data Simulation
+- Merchant profile generation
+- Normal transaction patterns
+- Fraudulent behavior injection
 
-2. **Feature Creation**
-   - Transaction metrics
-   - Time patterns
-   - Customer behavior
+### 2. Transaction Monitoring
+- Transaction velocity and volume analysis
+- Amount pattern detection
+- Time-based pattern analysis
 
-3. **Fraud Detection**
-   - Pattern matching
-   - Anomaly scoring
-   - Classification
+### 3. Merchant Analysis
+- Business pattern monitoring
+- Customer behavior tracking
+- Geographic distribution analysis
 
-4. **Reporting**
-   - Detailed merchant analysis
-   - Fraud pattern summary
-   - Visual analytics
+### 4. Anomaly Detection
+- Statistical outlier detection
+- Autoencoder-based pattern learning
+- Risk score calculation
 
-### 5. Output Generation
-- Generates two main files in `/data`:
-  - Detailed fraud report
-  - Fraud merchant summary
-- Creates visualization files:
-  - Fraud pattern distribution chart
-  - Merchant risk assessment plot
+## Outputs (`/data`)
+- **Visualizations**: Fraud distribution and model metrics
+- **Reports**: Detailed analysis and executive summary
 
-This system provides an end-to-end solution for detecting fraudulent merchant behavior through pattern analysis and anomaly detection.
+## Current Status & Future Plans
+### Current Implementation
+- Synthetic data generation and basic autoencoder
+- Pattern matching and reporting system
+
+### Key Improvements Planned
+1. Advanced ML models (Transformers, LSTM)
+2. Real transaction data integration
+3. Interactive dashboards and API endpoints
+4. Real-time processing capabilities
+5. Production-ready monitoring system
