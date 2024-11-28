@@ -1,0 +1,55 @@
+=== FRAUD MERCHANT SUMMARY LIST ===
+Generated on: 2024-11-28 11:21:38
+
+Merchant ID | Total Transactions | Avg Amount | Max Amount | Off-hours Ratio | Fraud Type
+----------------------------------------------------------------------------------------------------
+MF42F35DC | 449 | $6038.43 | $19999.00 | 27.4% | High-value transaction fraud + High-velocity fraud
+MA7BAB4AF | 922 | $2546.20 | $4998.17 | 29.5% | High-value transaction fraud + High-velocity fraud
+MCA6D1C23 | 449 | $2541.13 | $4978.25 | 100.0% | High-value transaction fraud + High-velocity fraud + Off-hours operation
+M5978DA81 | 436 | $6549.68 | $19999.00 | 29.4% | High-value transaction fraud + High-velocity fraud
+M764E8551 | 1112 | $2592.63 | $4996.76 | 30.2% | High-value transaction fraud + High-velocity fraud
+M105B1A80 | 1032 | $2504.37 | $4996.35 | 30.1% | High-value transaction fraud + High-velocity fraud
+M3733AC72 | 476 | $2590.74 | $4999.63 | 100.0% | High-value transaction fraud + High-velocity fraud + Off-hours operation
+M14DB8281 | 621 | $2494.05 | $4999.17 | 30.6% | High-value transaction fraud + High-velocity fraud
+M11E3DF4A | 1022 | $2565.39 | $4987.01 | 32.0% | High-value transaction fraud + High-velocity fraud
+M38FDF727 | 354 | $2871.54 | $5817.61 | 28.5% | High-value transaction fraud + High-velocity fraud
+MF41F14A4 | 435 | $2604.72 | $4983.76 | 100.0% | High-value transaction fraud + High-velocity fraud + Off-hours operation
+M4B4399DE | 442 | $6195.76 | $19999.00 | 32.8% | High-value transaction fraud + High-velocity fraud
+MCFAEE116 | 1024 | $2498.23 | $4995.57 | 27.1% | High-value transaction fraud + High-velocity fraud
+M0D3ECEC2 | 581 | $2575.71 | $4990.45 | 29.1% | High-value transaction fraud + High-velocity fraud
+M0004B81B | 381 | $2897.69 | $8344.85 | 34.1% | High-value transaction fraud + High-velocity fraud
+M3E682CE2 | 576 | $2578.31 | $4991.08 | 29.2% | High-value transaction fraud + High-velocity fraud
+MDB12D6E1 | 959 | $2506.16 | $4994.09 | 31.6% | High-value transaction fraud + High-velocity fraud
+ME28C1747 | 414 | $2805.21 | $6548.15 | 27.1% | High-value transaction fraud + High-velocity fraud
+MA620A166 | 318 | $2836.50 | $7080.61 | 27.4% | High-value transaction fraud + High-velocity fraud
+M4BFC8552 | 978 | $2592.24 | $4997.47 | 28.4% | High-value transaction fraud + High-velocity fraud
+M3C09B85C | 452 | $6372.62 | $19999.00 | 31.2% | High-value transaction fraud + High-velocity fraud
+ME666EE5A | 608 | $2458.34 | $4998.83 | 32.2% | High-value transaction fraud + High-velocity fraud
+M83AB7450 | 473 | $2559.09 | $4999.94 | 100.0% | High-value transaction fraud + High-velocity fraud + Off-hours operation
+MB4F76F40 | 1026 | $2581.11 | $4998.09 | 30.2% | High-value transaction fraud + High-velocity fraud
+M0EC2BA83 | 387 | $2976.04 | $9041.84 | 31.8% | High-value transaction fraud + High-velocity fraud
+M0A9A853A | 1079 | $2642.94 | $4985.87 | 33.2% | High-value transaction fraud + High-velocity fraud
+MA5FA1BCA | 1033 | $2568.79 | $4994.13 | 32.0% | High-value transaction fraud + High-velocity fraud
+MDD6470E4 | 390 | $2730.55 | $8206.72 | 27.9% | High-value transaction fraud + High-velocity fraud
+M65915CF6 | 370 | $2632.91 | $5430.48 | 31.4% | High-value transaction fraud + High-velocity fraud
+M82F9BB05 | 356 | $2967.05 | $8898.44 | 25.3% | High-value transaction fraud + High-velocity fraud
+M1AE278C3 | 612 | $2586.10 | $4994.23 | 30.1% | High-value transaction fraud + High-velocity fraud
+M7F781EB9 | 396 | $2894.10 | $8752.56 | 35.1% | High-value transaction fraud + High-velocity fraud
+MF99DC5FF | 324 | $2762.48 | $6085.99 | 32.1% | High-value transaction fraud + High-velocity fraud
+M512D324C | 616 | $2596.12 | $4997.70 | 31.2% | High-value transaction fraud + High-velocity fraud
+M7ED56CD2 | 410 | $6296.68 | $19999.00 | 34.1% | High-value transaction fraud + High-velocity fraud
+M687B41D6 | 395 | $2651.07 | $4999.79 | 25.1% | High-value transaction fraud + High-velocity fraud
+MC404684D | 997 | $2538.75 | $4993.52 | 29.4% | High-value transaction fraud + High-velocity fraud
+M30C5912A | 458 | $2591.27 | $4999.99 | 100.0% | High-value transaction fraud + High-velocity fraud + Off-hours operation
+M780B8BD1 | 940 | $2621.06 | $4997.64 | 31.3% | High-value transaction fraud + High-velocity fraud
+M61BA8B5C | 597 | $2489.93 | $4998.54 | 32.8% | High-value transaction fraud + High-velocity fraud
+MBFB3A75A | 608 | $2527.71 | $4996.39 | 30.4% | High-value transaction fraud + High-velocity fraud
+MF8C13B24 | 444 | $2449.55 | $4990.90 | 100.0% | High-value transaction fraud + High-velocity fraud + Off-hours operation
+MEECFFDD9 | 617 | $2534.64 | $4985.82 | 27.6% | High-value transaction fraud + High-velocity fraud
+M90C6F74D | 582 | $2574.02 | $4987.38 | 30.6% | High-value transaction fraud + High-velocity fraud
+M730A3E67 | 448 | $2414.33 | $4996.40 | 100.0% | High-value transaction fraud + High-velocity fraud + Off-hours operation
+M03AD7D6F | 440 | $2513.27 | $4965.43 | 100.0% | High-value transaction fraud + High-velocity fraud + Off-hours operation
+M9B4EF39A | 606 | $2551.80 | $4984.35 | 29.2% | High-value transaction fraud + High-velocity fraud
+M719F16B2 | 1001 | $2566.40 | $4996.01 | 32.9% | High-value transaction fraud + High-velocity fraud
+M3DE7B07D | 397 | $2712.03 | $5384.67 | 34.0% | High-value transaction fraud + High-velocity fraud
+MB0E10F52 | 1057 | $2584.53 | $4996.78 | 30.8% | High-value transaction fraud + High-velocity fraud

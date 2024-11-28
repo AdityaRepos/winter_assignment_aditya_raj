@@ -1,0 +1,810 @@
+=== FRAUD MERCHANT ANALYSIS REPORT ===
+Generated on: 2024-11-28 11:21:38
+
+Total Fraud Merchants: 50
+Total Fraudulent Transactions: 31100
+
+
+MERCHANT ID: MF42F35DC
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 449
+- Average Amount: $6038.43
+- Maximum Amount: $19999.00
+- Off-hours Transaction Ratio: 27.4%
+
+Customer Analysis:
+- Unique Customers: 447
+- Customer Concentration: 0.4%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: MA7BAB4AF
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 922
+- Average Amount: $2546.20
+- Maximum Amount: $4998.17
+- Off-hours Transaction Ratio: 29.5%
+
+Customer Analysis:
+- Unique Customers: 917
+- Customer Concentration: 0.2%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: MCA6D1C23
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 449
+- Average Amount: $2541.13
+- Maximum Amount: $4978.25
+- Off-hours Transaction Ratio: 100.0%
+
+Customer Analysis:
+- Unique Customers: 449
+- Customer Concentration: 0.2%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud + Off-hours operation
+--------------------------------------------------
+
+MERCHANT ID: M5978DA81
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 436
+- Average Amount: $6549.68
+- Maximum Amount: $19999.00
+- Off-hours Transaction Ratio: 29.4%
+
+Customer Analysis:
+- Unique Customers: 435
+- Customer Concentration: 0.5%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: M764E8551
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 1112
+- Average Amount: $2592.63
+- Maximum Amount: $4996.76
+- Off-hours Transaction Ratio: 30.2%
+
+Customer Analysis:
+- Unique Customers: 1106
+- Customer Concentration: 0.2%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: M105B1A80
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 1032
+- Average Amount: $2504.37
+- Maximum Amount: $4996.35
+- Off-hours Transaction Ratio: 30.1%
+
+Customer Analysis:
+- Unique Customers: 1020
+- Customer Concentration: 0.2%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: M3733AC72
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 476
+- Average Amount: $2590.74
+- Maximum Amount: $4999.63
+- Off-hours Transaction Ratio: 100.0%
+
+Customer Analysis:
+- Unique Customers: 475
+- Customer Concentration: 0.4%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud + Off-hours operation
+--------------------------------------------------
+
+MERCHANT ID: M14DB8281
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 621
+- Average Amount: $2494.05
+- Maximum Amount: $4999.17
+- Off-hours Transaction Ratio: 30.6%
+
+Customer Analysis:
+- Unique Customers: 58
+- Customer Concentration: 31.6%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: M11E3DF4A
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 1022
+- Average Amount: $2565.39
+- Maximum Amount: $4987.01
+- Off-hours Transaction Ratio: 32.0%
+
+Customer Analysis:
+- Unique Customers: 1016
+- Customer Concentration: 0.2%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: M38FDF727
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 354
+- Average Amount: $2871.54
+- Maximum Amount: $5817.61
+- Off-hours Transaction Ratio: 28.5%
+
+Customer Analysis:
+- Unique Customers: 316
+- Customer Concentration: 2.8%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: MF41F14A4
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 435
+- Average Amount: $2604.72
+- Maximum Amount: $4983.76
+- Off-hours Transaction Ratio: 100.0%
+
+Customer Analysis:
+- Unique Customers: 435
+- Customer Concentration: 0.2%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud + Off-hours operation
+--------------------------------------------------
+
+MERCHANT ID: M4B4399DE
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 442
+- Average Amount: $6195.76
+- Maximum Amount: $19999.00
+- Off-hours Transaction Ratio: 32.8%
+
+Customer Analysis:
+- Unique Customers: 440
+- Customer Concentration: 0.5%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: MCFAEE116
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 1024
+- Average Amount: $2498.23
+- Maximum Amount: $4995.57
+- Off-hours Transaction Ratio: 27.1%
+
+Customer Analysis:
+- Unique Customers: 1016
+- Customer Concentration: 0.2%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: M0D3ECEC2
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 581
+- Average Amount: $2575.71
+- Maximum Amount: $4990.45
+- Off-hours Transaction Ratio: 29.1%
+
+Customer Analysis:
+- Unique Customers: 70
+- Customer Concentration: 31.7%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: M0004B81B
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 381
+- Average Amount: $2897.69
+- Maximum Amount: $8344.85
+- Off-hours Transaction Ratio: 34.1%
+
+Customer Analysis:
+- Unique Customers: 324
+- Customer Concentration: 2.6%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: M3E682CE2
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 576
+- Average Amount: $2578.31
+- Maximum Amount: $4991.08
+- Off-hours Transaction Ratio: 29.2%
+
+Customer Analysis:
+- Unique Customers: 48
+- Customer Concentration: 32.3%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: MDB12D6E1
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 959
+- Average Amount: $2506.16
+- Maximum Amount: $4994.09
+- Off-hours Transaction Ratio: 31.6%
+
+Customer Analysis:
+- Unique Customers: 956
+- Customer Concentration: 0.2%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: ME28C1747
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 414
+- Average Amount: $2805.21
+- Maximum Amount: $6548.15
+- Off-hours Transaction Ratio: 27.1%
+
+Customer Analysis:
+- Unique Customers: 352
+- Customer Concentration: 2.4%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: MA620A166
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 318
+- Average Amount: $2836.50
+- Maximum Amount: $7080.61
+- Off-hours Transaction Ratio: 27.4%
+
+Customer Analysis:
+- Unique Customers: 282
+- Customer Concentration: 2.5%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: M4BFC8552
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 978
+- Average Amount: $2592.24
+- Maximum Amount: $4997.47
+- Off-hours Transaction Ratio: 28.4%
+
+Customer Analysis:
+- Unique Customers: 970
+- Customer Concentration: 0.2%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: M3C09B85C
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 452
+- Average Amount: $6372.62
+- Maximum Amount: $19999.00
+- Off-hours Transaction Ratio: 31.2%
+
+Customer Analysis:
+- Unique Customers: 452
+- Customer Concentration: 0.2%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: ME666EE5A
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 608
+- Average Amount: $2458.34
+- Maximum Amount: $4998.83
+- Off-hours Transaction Ratio: 32.2%
+
+Customer Analysis:
+- Unique Customers: 68
+- Customer Concentration: 32.6%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: M83AB7450
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 473
+- Average Amount: $2559.09
+- Maximum Amount: $4999.94
+- Off-hours Transaction Ratio: 100.0%
+
+Customer Analysis:
+- Unique Customers: 470
+- Customer Concentration: 0.4%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud + Off-hours operation
+--------------------------------------------------
+
+MERCHANT ID: MB4F76F40
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 1026
+- Average Amount: $2581.11
+- Maximum Amount: $4998.09
+- Off-hours Transaction Ratio: 30.2%
+
+Customer Analysis:
+- Unique Customers: 1021
+- Customer Concentration: 0.2%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: M0EC2BA83
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 387
+- Average Amount: $2976.04
+- Maximum Amount: $9041.84
+- Off-hours Transaction Ratio: 31.8%
+
+Customer Analysis:
+- Unique Customers: 305
+- Customer Concentration: 2.6%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: M0A9A853A
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 1079
+- Average Amount: $2642.94
+- Maximum Amount: $4985.87
+- Off-hours Transaction Ratio: 33.2%
+
+Customer Analysis:
+- Unique Customers: 1076
+- Customer Concentration: 0.2%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: MA5FA1BCA
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 1033
+- Average Amount: $2568.79
+- Maximum Amount: $4994.13
+- Off-hours Transaction Ratio: 32.0%
+
+Customer Analysis:
+- Unique Customers: 1028
+- Customer Concentration: 0.2%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: MDD6470E4
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 390
+- Average Amount: $2730.55
+- Maximum Amount: $8206.72
+- Off-hours Transaction Ratio: 27.9%
+
+Customer Analysis:
+- Unique Customers: 324
+- Customer Concentration: 2.6%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: M65915CF6
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 370
+- Average Amount: $2632.91
+- Maximum Amount: $5430.48
+- Off-hours Transaction Ratio: 31.4%
+
+Customer Analysis:
+- Unique Customers: 315
+- Customer Concentration: 2.7%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: M82F9BB05
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 356
+- Average Amount: $2967.05
+- Maximum Amount: $8898.44
+- Off-hours Transaction Ratio: 25.3%
+
+Customer Analysis:
+- Unique Customers: 296
+- Customer Concentration: 2.8%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: M1AE278C3
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 612
+- Average Amount: $2586.10
+- Maximum Amount: $4994.23
+- Off-hours Transaction Ratio: 30.1%
+
+Customer Analysis:
+- Unique Customers: 52
+- Customer Concentration: 32.0%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: M7F781EB9
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 396
+- Average Amount: $2894.10
+- Maximum Amount: $8752.56
+- Off-hours Transaction Ratio: 35.1%
+
+Customer Analysis:
+- Unique Customers: 319
+- Customer Concentration: 2.5%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: MF99DC5FF
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 324
+- Average Amount: $2762.48
+- Maximum Amount: $6085.99
+- Off-hours Transaction Ratio: 32.1%
+
+Customer Analysis:
+- Unique Customers: 294
+- Customer Concentration: 2.5%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: M512D324C
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 616
+- Average Amount: $2596.12
+- Maximum Amount: $4997.70
+- Off-hours Transaction Ratio: 31.2%
+
+Customer Analysis:
+- Unique Customers: 61
+- Customer Concentration: 31.5%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: M7ED56CD2
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 410
+- Average Amount: $6296.68
+- Maximum Amount: $19999.00
+- Off-hours Transaction Ratio: 34.1%
+
+Customer Analysis:
+- Unique Customers: 409
+- Customer Concentration: 0.5%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: M687B41D6
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 395
+- Average Amount: $2651.07
+- Maximum Amount: $4999.79
+- Off-hours Transaction Ratio: 25.1%
+
+Customer Analysis:
+- Unique Customers: 304
+- Customer Concentration: 2.8%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: MC404684D
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 997
+- Average Amount: $2538.75
+- Maximum Amount: $4993.52
+- Off-hours Transaction Ratio: 29.4%
+
+Customer Analysis:
+- Unique Customers: 991
+- Customer Concentration: 0.2%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: M30C5912A
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 458
+- Average Amount: $2591.27
+- Maximum Amount: $4999.99
+- Off-hours Transaction Ratio: 100.0%
+
+Customer Analysis:
+- Unique Customers: 456
+- Customer Concentration: 0.4%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud + Off-hours operation
+--------------------------------------------------
+
+MERCHANT ID: M780B8BD1
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 940
+- Average Amount: $2621.06
+- Maximum Amount: $4997.64
+- Off-hours Transaction Ratio: 31.3%
+
+Customer Analysis:
+- Unique Customers: 935
+- Customer Concentration: 0.2%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: M61BA8B5C
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 597
+- Average Amount: $2489.93
+- Maximum Amount: $4998.54
+- Off-hours Transaction Ratio: 32.8%
+
+Customer Analysis:
+- Unique Customers: 58
+- Customer Concentration: 30.7%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: MBFB3A75A
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 608
+- Average Amount: $2527.71
+- Maximum Amount: $4996.39
+- Off-hours Transaction Ratio: 30.4%
+
+Customer Analysis:
+- Unique Customers: 64
+- Customer Concentration: 32.2%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: MF8C13B24
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 444
+- Average Amount: $2449.55
+- Maximum Amount: $4990.90
+- Off-hours Transaction Ratio: 100.0%
+
+Customer Analysis:
+- Unique Customers: 443
+- Customer Concentration: 0.5%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud + Off-hours operation
+--------------------------------------------------
+
+MERCHANT ID: MEECFFDD9
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 617
+- Average Amount: $2534.64
+- Maximum Amount: $4985.82
+- Off-hours Transaction Ratio: 27.6%
+
+Customer Analysis:
+- Unique Customers: 64
+- Customer Concentration: 31.3%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: M90C6F74D
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 582
+- Average Amount: $2574.02
+- Maximum Amount: $4987.38
+- Off-hours Transaction Ratio: 30.6%
+
+Customer Analysis:
+- Unique Customers: 75
+- Customer Concentration: 31.3%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: M730A3E67
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 448
+- Average Amount: $2414.33
+- Maximum Amount: $4996.40
+- Off-hours Transaction Ratio: 100.0%
+
+Customer Analysis:
+- Unique Customers: 444
+- Customer Concentration: 0.4%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud + Off-hours operation
+--------------------------------------------------
+
+MERCHANT ID: M03AD7D6F
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 440
+- Average Amount: $2513.27
+- Maximum Amount: $4965.43
+- Off-hours Transaction Ratio: 100.0%
+
+Customer Analysis:
+- Unique Customers: 438
+- Customer Concentration: 0.5%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud + Off-hours operation
+--------------------------------------------------
+
+MERCHANT ID: M9B4EF39A
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 606
+- Average Amount: $2551.80
+- Maximum Amount: $4984.35
+- Off-hours Transaction Ratio: 29.2%
+
+Customer Analysis:
+- Unique Customers: 68
+- Customer Concentration: 31.0%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: M719F16B2
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 1001
+- Average Amount: $2566.40
+- Maximum Amount: $4996.01
+- Off-hours Transaction Ratio: 32.9%
+
+Customer Analysis:
+- Unique Customers: 992
+- Customer Concentration: 0.2%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: M3DE7B07D
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 397
+- Average Amount: $2712.03
+- Maximum Amount: $5384.67
+- Off-hours Transaction Ratio: 34.0%
+
+Customer Analysis:
+- Unique Customers: 312
+- Customer Concentration: 2.5%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+MERCHANT ID: MB0E10F52
+--------------------------------------------------
+
+Transaction Patterns:
+- Total Transactions: 1057
+- Average Amount: $2584.53
+- Maximum Amount: $4996.78
+- Off-hours Transaction Ratio: 30.8%
+
+Customer Analysis:
+- Unique Customers: 1046
+- Customer Concentration: 0.2%
+
+Suspected Fraud Type: High-value transaction fraud + High-velocity fraud
+--------------------------------------------------
+
+=== SUMMARY STATISTICS ===
+Total Fraudulent Merchants: 50
+Average Transactions per Merchant: 622.0

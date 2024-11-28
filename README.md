@@ -1,96 +1,54 @@
-# Merchant Fraud Detection System
+# Merchant Fraud Detection System - Code Overview
 
-## Overview
-An autoencoder-based anomaly detection system that identifies suspicious merchant behavior patterns by analyzing transaction patterns and characteristics.
+## Basic usage with default settings
+`python src/main.py`
 
-## Key Components
+## Core Components & Flow
 
-### 1. Data Generation
-- **Merchant Profiles**: Basic info (ID, name, type) + business details
-- **Transaction Data**: 
-  - 80% normal trading patterns
-  - 20% fraudulent patterns
-- **Data Location**: All data stored in external `/data` directory
+### 1. Main Pipeline (`src/main.py`)
+The `FraudDetectionPipeline` class orchestrates the entire process:
+- Initializes data paths and components
+- Manages data generation and processing
+- Handles model training and prediction
+- Generates fraud reports
 
-### 2. Fraud Pattern Detection
-Identifies five main fraud patterns:
+### 2. Feature Processing (`src/feature_engineering.py`)
+The `FeatureEngineering` class:
+- Processes raw transaction data
+- Calculates merchant behavior metrics
+- Normalizes features for model input
 
-1. **Late Night Trading**
-   - High volume during 23:00-04:00
-   - 70%+ transactions in off-hours
-
-2. **Sudden Activity Spikes**
-   - Normal: 10-20 daily transactions
-   - Spike: 200-300 daily transactions
-   - Duration: 2-3 days
-
-3. **Split Transactions**
-   - Original amount: 50,000-100,000
-   - Split into 5-10 smaller transactions
-   - Within 10-30 minutes window
-
-4. **Round Amount Pattern**
-   - Just-below threshold amounts (9999, 19999)
-   - High frequency of specific amounts
-
-5. **Customer Concentration**
-   - 5-10 customers making 80% of volume
-   - Regular high-value transactions
-
-### 3. Feature Engineering
-Key metrics calculated:
-- Transaction velocity
-- Time-based patterns
-- Amount distributions
-- Customer concentration
-
-### 4. Output Files
-Located in `/data` directory:
-
-1. **fraud_merchant_report.txt**
-   - Detailed analysis per merchant
-   - Transaction patterns
-   - Customer analysis
-   - Fraud type classification
-
-2. **fraud_merchant_summary.txt**
-   - Concise list of fraud merchants
-   - Key metrics and fraud types
-
-## Testing Scenarios
-
-### 1. Normal Merchant Validation
-- Business hour patterns
-- Amount distributions
-- Customer diversity
-
-### 2. Fraud Pattern Validation
-- Pattern characteristics
-- Timing analysis
-- Pattern intensity
-
-### 3. Dataset Balance
-- Fraud/normal ratio
-- Pattern distribution
-- Overall statistics
-
-## Project Structure
-
-src/
-├── main.py # Main pipeline
-├── feature_engineering.py # Feature processing
-└── data/ # Output directory
+### 3. Data Flow
+Raw Data → Feature Engineering → Model Training → Fraud Detection → Reports
 
 
-## Future Improvements
-1. **Pattern Detection**
-   - Additional fraud patterns
-   - Enhanced detection algorithms
+### 4. Key Operations
+1. **Data Generation**
+   - Creates merchant profiles
+   - Generates transaction data
+   - Injects fraud patterns
 
-2. **Feature Engineering**
-   - More temporal features
-   - Advanced customer metrics
+2. **Feature Creation**
+   - Transaction metrics
+   - Time patterns
+   - Customer behavior
 
-3. **Reporting**
-   - Visualization capabilities
-   - Real-time monitoring
+3. **Fraud Detection**
+   - Pattern matching
+   - Anomaly scoring
+   - Classification
+
+4. **Reporting**
+   - Detailed merchant analysis
+   - Fraud pattern summary
+   - Visual analytics
+
+### 5. Output Generation
+- Generates two main files in `/data`:
+  - Detailed fraud report
+  - Fraud merchant summary
+- Creates visualization files:
+  - Fraud pattern distribution chart
+  - Merchant risk assessment plot
+
+This system provides an end-to-end solution for detecting fraudulent merchant behavior through pattern analysis and anomaly detection.
