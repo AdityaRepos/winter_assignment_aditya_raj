@@ -1,7 +1,7 @@
 # Merchant Fraud Detection System - Code Overview
 
 ## Basic usage with default settings
-`python src/main.py`
+Run by : `cd src` then `python main.py`
 
 ## Core Components & Flow
 
